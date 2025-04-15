@@ -1,0 +1,16 @@
+{
+    "name": "91982/microproject2",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "91982\\Microproject2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harsh"
+        }
+    ]
+}
