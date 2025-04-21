@@ -32,14 +32,14 @@ $result = mysqli_stmt_get_result($stmt);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EventHub - Online Event Registration</title>
+    <title>Qventix - Online Event Registration</title>
     <link rel="stylesheet" href="style1.css">
 </head>
 <body>
     <header>
         <nav class="container header-content">
             <div class="logo">
-                <h1>EventHub</h1>
+                <h1>Qventix</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php" class="active">Home</a></li>
@@ -158,7 +158,7 @@ $result = mysqli_stmt_get_result($stmt);
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 EventHub. All rights reserved.</p>
+            <p>&copy; 2023 Qventix. All rights reserved.</p>
         </div>
     </footer>
 </body>

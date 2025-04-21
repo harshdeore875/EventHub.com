@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - EventHub</title>
+    <title>Login - Qventix</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="additional-styles.css">
     <link rel="stylesheet" href="style1.css">
@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <header>
         <nav class="container header-content">
             <div class="logo">
-                <h1>EventHub</h1>
+                <h1>Qventix</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php">Home</a></li>

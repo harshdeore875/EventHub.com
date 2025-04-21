@@ -46,7 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port = 587;
 
-                    $mail->setFrom('harshdeore865@gmail.com', 'EventHub');
+                    $mail->setFrom('harshdeore865@gmail.com', 'Qventix');
                     $mail->addAddress($email, $name);
 
                     $mail->isHTML(true);
@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register - EventHub</title>
+    <title>Register - Qventix</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style1.css">
 </head>
@@ -84,7 +84,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <header> 
         <nav class="container header-content">
             <div class="logo">
-                <h1>EventHub</h1>
+                <h1>Qventix</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php">Home</a></li>

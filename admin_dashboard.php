@@ -111,7 +111,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['verify'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard - EventHub</title>
+    <title>Admin Dashboard - Qventix</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="additional_styles.css">
     <link rel="stylesheet" href="style1.css">
@@ -121,7 +121,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['verify'])) {
     <header>
         <nav class="container header-content">
             <div class="logo">
-                <h1>EventHub Admin</h1>
+                <h1>Qventix Admin</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php">Home</a></li>
@@ -298,7 +298,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['verify'])) {
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 EventHub. All rights reserved.</p>
+            <p>&copy; 2023 Qventix. All rights reserved.</p>
         </div>
     </footer>
 
